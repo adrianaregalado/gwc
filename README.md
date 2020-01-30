@@ -1,2 +1,2 @@
-# gwc-github
+# gwc
 GWC Kickoff Github Repository
